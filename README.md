@@ -1,5 +1,5 @@
 # FF7RemakeOptimizer
-Optimizations for FF7 Remake on PC or Steam Deck.
+Optimizations for FF7 Remake on PC or Steam Deck. These are based off of the Ascendio mod for Hogwarts Legacy and likely will work with many other Unreal Engine 4 games. So far I can confirm this makes a massive difference in both FF7 Remake and Hogwarts.
 
 First you will need to have FFVIIHook installed and working. If you are on Steam Deck, you need to rename the .dll file from FFVIIHook to .dxgi.dll and place it in the proper in-game folder, otherwise it will cause conflicts with the Deck's controls. If on Windows, leave the .dll file named as is.
 Place it in the game's directory under:
