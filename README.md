@@ -1,4 +1,4 @@
-# FF7RemakeOptimizer
+# FF7 Remake Optimizer
 Optimizations for FF7 Remake on PC or Steam Deck. These are based off of the Ascendio mod for Hogwarts Legacy and likely will work with many other Unreal Engine 4 games. So far I can confirm this makes a massive difference in both FF7 Remake and Hogwarts on both PC and Steam Deck.
 
 NOTE: On 5/16/2023 there was an update for FF7 Remake on PC that breaks [FFVIIHook](https://www.nexusmods.com/finalfantasy7remake/mods/74). For now it is recommended to downgrade the game's .exe file, as this update didn't do anything performance-wise and just changed DualSense support. You can downgrade the game yourself [by following this guide](https://www.makeuseof.com/how-to-downgrade-steam-games/) or you can try to acquire the original ff7remake_.exe by other means.
