@@ -6,9 +6,13 @@ Place it in the game's directory under:
 
 FINAL FANTASY VII REMAKE\End\Binaries\Win64\
 
+Also, if you are on Steam Deck, you need to do one more thing (ignore this part for Windows). You need to add this to the game's launch options in Steam:
+
+WINEDLLOVERRIDES='dxgi.dll=n,b' %command% -d3d11
+
 It should be located next to ff7remake_.exe (yes, the one with the _).
 
-Then, download this Engine.ini (right click > save as) https://raw.githubusercontent.com/sevansup/FF7RemakeOptimizer/main/Engine.ini and place it in the game's local data folder, which in this case is:
+Then, download this [Engine.ini](https://raw.githubusercontent.com/sevansup/FF7RemakeOptimizer/main/Engine.ini) (right click > save as) and place it in the game's local data folder, which in this case is:
 
 %USERPROFILE%\Documents\My Games\FINAL FANTASY VII REMAKE\Saved\Config\WindowsNoEditor\
 
