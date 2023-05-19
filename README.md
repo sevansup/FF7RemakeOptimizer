@@ -3,7 +3,7 @@ Optimizations for FF7 Remake on PC or Steam Deck. These are based off of the Asc
 
 NOTE: On 5/16/2023 there was an update for FF7 Remake on PC that breaks FFVIIHook. For now it is recommended to downgrade the game's .exe file, as this update didn't do anything performance-wise and just changed DualSense support. You can downgrade the game yourself [by following this guide](https://www.makeuseof.com/how-to-downgrade-steam-games/) or you can try to acquire the original ff7remake_.exe by other means.
 
-First you will need to have FFVIIHook installed and working. **If you are on Steam Deck, you need to rename the .dll file from FFVIIHook to .dxgi.dll** and place it in the proper in-game folder, otherwise it will cause conflicts with the Deck's controls. If on Windows, leave the .dll file named as is.
+First you will need to have [FFVIIHook](https://www.nexusmods.com/finalfantasy7remake/mods/74) installed and working. **If you are on Steam Deck, you need to rename the .dll file from FFVIIHook to .dxgi.dll** and place it in the proper in-game folder, otherwise it will cause conflicts with the Deck's controls. If on Windows, leave the .dll file named as is.
 Place it in the game's directory under:
 ```
 FINAL FANTASY VII REMAKE\End\Binaries\Win64\
